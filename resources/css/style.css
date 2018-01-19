@@ -1,8 +1,13 @@
 h1 {
-  font-family: Verdana;
   font-size: 50px;
   color: white;
   text-align: center;
+}
+
+html {
+  background-color: black;
+  text-align: center;
+  font-family: verdana;
 }
 
 #download {
@@ -11,14 +16,18 @@ h1 {
 }
 
 h2 {
-  font-family: Verdana;
   font-weight: 300;
   font-size: 42px;
   color:white;
 }
 
 p {
-  font-size: 21px
+  font-size: 21px;
   color: gray;
-  font-family: verdana;
+}
+
+footer {
+  font-size: 21px;
+  color: gray;
+  text-align: right;
 }
